@@ -1,0 +1,1 @@
+const API_KEY = "DE_12345";
